@@ -4,6 +4,7 @@ import com.opensymphony.xwork2.ActionSupport;
 import java.sql.*;
 
 public class addbook extends ActionSupport {
+	//B3test
 	//test is a test
 	private String ISBN, AuthorID, Title, Publisher, PublishDate, Name,
 			Country;

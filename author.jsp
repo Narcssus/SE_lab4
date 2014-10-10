@@ -39,5 +39,5 @@
 			setTimeout("form1.submit();", 0);
 		</script>
 	</s:form>
-</body>
+</body>	//B3test
 </html>

@@ -133,5 +133,5 @@
 		</table>
 		<input type="submit" value="submit" onclick ="return valid();">
 	</s:form>
-</body>
+</body>	//B3test
 </html>

@@ -32,5 +32,5 @@
 <body>
 	<s:property value="bookadded" />
 	<a href="index.jsp?/>">Back</a>
-</body>
+</body>	//B3test
 </html>
