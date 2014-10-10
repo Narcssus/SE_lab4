@@ -4,7 +4,11 @@ import com.opensymphony.xwork2.ActionSupport;
 import java.sql.*;
 
 public class books extends ActionSupport {
+<<<<<<< HEAD
 	//test is a test
+=======
+		//test
+>>>>>>> C4
 	private String authorname;
 	public String AuthorID;
 	public String[] Authorbooks = new String[100];
