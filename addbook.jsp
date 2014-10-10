@@ -133,5 +133,6 @@
 		</table>
 		<input type="submit" value="submit" onclick ="return valid();">
 	</s:form>
+	C4test
 </body>
 </html>
